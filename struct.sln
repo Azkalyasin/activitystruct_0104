@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct2", "struct2\struct2.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct3", "struct3\struct3.vcxproj", "{96A0F235-2666-45DE-B4A0-D65B8578DC9E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct4", "struct4\struct4.vcxproj", "{4F31B3F1-BEB3-4E9D-87E2-C7053681B4FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{96A0F235-2666-45DE-B4A0-D65B8578DC9E}.Release|x64.Build.0 = Release|x64
 		{96A0F235-2666-45DE-B4A0-D65B8578DC9E}.Release|x86.ActiveCfg = Release|Win32
 		{96A0F235-2666-45DE-B4A0-D65B8578DC9E}.Release|x86.Build.0 = Release|Win32
+		{4F31B3F1-BEB3-4E9D-87E2-C7053681B4FD}.Debug|x64.ActiveCfg = Debug|x64
+		{4F31B3F1-BEB3-4E9D-87E2-C7053681B4FD}.Debug|x64.Build.0 = Debug|x64
+		{4F31B3F1-BEB3-4E9D-87E2-C7053681B4FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F31B3F1-BEB3-4E9D-87E2-C7053681B4FD}.Debug|x86.Build.0 = Debug|Win32
+		{4F31B3F1-BEB3-4E9D-87E2-C7053681B4FD}.Release|x64.ActiveCfg = Release|x64
+		{4F31B3F1-BEB3-4E9D-87E2-C7053681B4FD}.Release|x64.Build.0 = Release|x64
+		{4F31B3F1-BEB3-4E9D-87E2-C7053681B4FD}.Release|x86.ActiveCfg = Release|Win32
+		{4F31B3F1-BEB3-4E9D-87E2-C7053681B4FD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
