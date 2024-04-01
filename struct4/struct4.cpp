@@ -34,5 +34,9 @@ int main()
         cin >> mhs[i].umur;
         cin.ignore(1, '\n');
     }
+
+    for (size_t i = 0; i < 3; i++) {
+
+    }
 }
 
