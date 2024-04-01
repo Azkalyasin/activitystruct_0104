@@ -36,7 +36,15 @@ int main()
     }
 
     for (size_t i = 0; i < 3; i++) {
-
+        cout << endl;
+        cout << "Data Mahasiswa ke-" << (i + 1);
+        cout << "\n NIM: " << mhs[i].nim;
+        cout << "\n Nama: " << mhs[i].nama;
+        cout << "\n Alamat: ";
+        cout << " \n \t Desa: " << mhs[i].alamat.desa;
+        cout << "\n \t Kota: " << mhs[i].alamat.kota;
+        cout << "\n umur: " << mhs[i].umur;
     }
+    return 0;
 }
 
